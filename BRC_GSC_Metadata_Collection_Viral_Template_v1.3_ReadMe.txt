@@ -1,0 +1,11 @@
+You must upgrade to Excel version 2010 (or newer) before using. This spreadsheet will work with Desktop Excel (Windows or Mac) applications only because it requires Macro and VBA. Excel online, OpenOffice, and LibreOffice will not work because they do not support Macros and VBA.
+ 
+    •   When you open the spreadsheet click the “Enable Content” or “Enable Macros” button to enable the Macros. DO NOT DISABLE THE MACROS.
+    •   There are 5 worksheets within the spreadsheet. All fields marked “Required” must be filled in (even if just with ‘Unknown’ or ‘Not applicable’). You can completely ignore worksheets that do not apply to your data (for example, if you do not have vaccination info the ‘Host Vaccination’ worksheet can be left completely blank).
+    •   Some columns have drop-down lists, others will accept free text. If you do not have some of the data for samples or you are not sure what info to provide you can leave the cells blank and contact us. If the proper host is not provided in the drop-down list please contact us.
+    •   If you want to copy and paste between cells with drop-downs, first select a value from the drop-down, copy the cell, and paste it into a new cell(s) in the same column.
+    •   If you want to copy and paste from another spreadsheet, you MUST paste as “Values” (right click, select “Paste Special”, then select “Values”).
+    •   Do NOT insert or delete columns.
+    •   As you finish filling out each worksheet click the ‘Validate’ button and any required cells that do not contain data will turn pink. Fix the cells in pink and then re-click ‘Validate’ to ensure all cells have been fixed.
+    •   The spreadsheet must be saved in .xlsm format.
+
