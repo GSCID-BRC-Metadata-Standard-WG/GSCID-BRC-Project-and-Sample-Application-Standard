@@ -9,8 +9,9 @@ The specifications of the GSCID/BRC Project and Sample Application Standard vers
 * BRC Project and Sample Application Standard v1.3 – Sequencing Assay
 * BRC Project and Sample Application Standard v1.3 – Project Specific
 * BRC Project and Sample Application Standard v1.3 – Bacterial Specific
-* BRC_GSC_Metadata_Collection_Bacteria_Template_v1.35.xlsm (Example Bacteria Metadata Collection template)
-* BRC_GSC_Metadata_Collection_Viral_Template_v1.3 (Example Viral Metadata Collection Collection template)
+* BRC_GSC_Metadata_Collection_Bacteria_Template_v1.35.xlsm - Example Bacteria Metadata Collection template
+* BRC_GSC_Metadata_Collection_Viral_Template_v1.3 - Example Viral Metadata Collection Collection template
+   * Pl. see BRC_GSC_Metadata_Collection_Viral_Template_v1.3_ReadMe.txt files for details about usage and Excel dependencies.
 
 ## DMID Clinical Metadata Standards
 The intent and scope of the GSCID/BRC Clinical Metadata Standard is to provide an extension to the GSCID/BRC Project and Sample Application Standard that adds data fields related to sequencing studies involving specimens isolated from human participants for which clinical and demographic data would be of interest.
